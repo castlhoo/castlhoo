@@ -42,7 +42,7 @@
 - Establishing Preventive Measures to Prevent Sexual Crimes within the Military _(2024.04)_  
 - Dissertation: Relationship between Adjustment disorder and Crime among North Korean defectors : Focusing on Adjustment disorder of Social and gender _(2022.02)_
 - The establishment of the recycling system and the WTE project based on 3R circular economy in Jakarta, Indonesia (SDGs 16) _(2021.08)_
-- On the Expansion of Human Rights in North Korea and Denuclearization Strategies _)-(2021.01)
+- On the Expansion of Human Rights in North Korea and Denuclearization Strategies _(2021.01)_
 
 <br>
 
