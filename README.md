@@ -16,7 +16,7 @@
 
 ## 📝 SeongHo's Project Notion 📝
 <div style="display:flex; flex-direction:row;">
-    <a href="[https://screeching-kettledrum-5a8.notion.site/Woori-Financial-FISA-Projects-3a6cd013d90e4950843c07a88baf3286?pvs=4]">
+    <a href="https://screeching-kettledrum-5a8.notion.site/Woori-Financial-FISA-Projects-3a6cd013d90e4950843c07a88baf3286?pvs=4">
         <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 
