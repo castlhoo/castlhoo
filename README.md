@@ -22,6 +22,13 @@
 
 <br>
 
+## 🌟 Seongho's Github Project 🌟
+See My-Portfolio page!
+<div style="display:flex; flex-direction:row;">
+    <a href="https://github.com/castlhoo/My-Portfolio">
+        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"> 
+    </a>
+</div>
 </div><br>
 
 ## 💪 Experience 💪
