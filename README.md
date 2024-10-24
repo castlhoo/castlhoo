@@ -11,6 +11,7 @@
 
 [![SeongHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=castlhoo&theme=nord&hide_border=true&count_private=true)](https://github.com/castlhoo/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castlhoo)](https://github.com/castlhoo/github-readme-stats)
  
 <br>
 
@@ -92,5 +93,14 @@
     <img src="https://img.shields.io/badge/Kibana-005981?style=for-the-badge&logo=Kibana&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/R-001326?style=for-the-badge&logo=R&logoColor=white">
+    <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=Apache Spark&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Kubenetes-326CE5?style=for-the-badge&logo=Kubenetes&logoColor=white">
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white">
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
+    
+    
 </div><br>
 </div>
