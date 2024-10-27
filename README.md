@@ -56,14 +56,21 @@
 <br>
  
 ## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/castlehoo/">
+<div style="display:flex; flex-direction:row; gap: 10px;">
+    <a href="https://www.instagram.com/castlehoo/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="mailto:ksungho9991@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-</div><br>
+    <a href="https://www.linkedin.com/in/seongho-kim-04807b2b2" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+    </a>
+    <a href="https://github.com/username/repository/raw/main/CV_KimSeongho.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=adobe-resume&logoColor=white">
+    </a>
+</div>
+<br>
     
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
