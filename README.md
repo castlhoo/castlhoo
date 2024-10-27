@@ -31,9 +31,7 @@
 <br>
 
 ## 💻 Project 💻
-- Woori Financial FISA VMware Project _(2023.07 ~ 2024.07)_
-- Woori Financial FISA Web Programming Project _(2023.12 ~ 2024.03)_
-- Woori Financial FISA ELK Project _(2023.10 ~ 2024.03)_
+- Woori Financial FISA VMware, Web Programming Project, Cloud Engineer Project _(2024.07 ~ 2024.12)_
 - Proposal for Data Analysis and Training Strategies on Terrorism Related to North Korea and Religious Extremism _(2024.02)_
 - Establishing Preventive Measures to Prevent Sexual Crimes within the Military _(2024.04)_  
 - Dissertation: Relationship between Adjustment disorder and Crime among North Korean defectors : Focusing on Adjustment disorder of Social and gender _(2022.02)_
