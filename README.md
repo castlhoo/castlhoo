@@ -66,7 +66,7 @@
     <a href="https://www.linkedin.com/in/seongho-kim-04807b2b2" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
     </a>
-    <a href="https://github.com/username/repository/raw/main/CV_KimSeongho.pdf" target="_blank">
+    <a href="https://github.com/castlhoo/castlhoo/blob/main/CV_KimSeongho.pdf" target="_blank">
         <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=adobe-resume&logoColor=white">
     </a>
 </div>
