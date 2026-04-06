@@ -12,10 +12,11 @@
 ---
 
 <div align="center">
+<br>
 
-[![SeongHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=castlhoo&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117)](https://github.com/castlhoo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castlhoo&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117)](https://github.com/castlhoo)
+[![Website](https://img.shields.io/badge/&#x1F449;%20Check%20out%20my%20portfolio%20website%20for%20full%20details-4B6CB7?style=for-the-badge)](https://castlhoo.github.io/)
 
+<br>
 </div>
 
 ---
@@ -60,6 +61,18 @@
 **Languages & Data**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+
+---
+
+### &#x1F331; GitHub Activity
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=castlhoo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6994CD&line=6994CD&point=ffffff)](https://github.com/castlhoo)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=castlhoo&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/castlhoo)
+
+</div>
 
 ---
 
