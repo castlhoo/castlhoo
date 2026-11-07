@@ -61,18 +61,6 @@
 
 ---
 
-### &#x1F331; GitHub Activity
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=castlhoo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6994CD&line=6994CD&point=ffffff)](https://github.com/castlhoo)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=castlhoo&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/castlhoo)
-
-</div>
-
----
-
 <div align="center">
 
 &#x1F4CC; **More about me &#x2192;** <a href="https://castlhoo.github.io/"><b>castlhoo.github.io</b></a>
