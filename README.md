@@ -7,16 +7,14 @@
 <a href="https://www.linkedin.com/in/seongho-kim-04807b2b2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 <a href="https://github.com/castlhoo/castlhoo/blob/main/CV_KimSeongho.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-2E8B57?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-<br>
-
-[![Website](https://img.shields.io/badge/&#x1F449;%20Check%20out%20my%20portfolio%20website%20for%20full%20details-4B6CB7?style=for-the-badge)](https://castlhoo.github.io/)
+**Solutions Engineer at Salt AI.** I turn complex business challenges into practical AI solutions, working at the intersection of AI engineering, enterprise workflows, and business transformation. From identifying problems to deploying solutions, I focus on making AI work in the real world.
 
 <br>
+
+[![Website](https://img.shields.io/badge/&#x1F449;%20Full%20details%20on%20my%20portfolio-4B6CB7?style=for-the-badge)](https://castlhoo.github.io/)
+
 </div>
 
 ---
@@ -32,13 +30,12 @@
 
 ### &#x1F4BC; Experience
 
-| Role | Organization | Period |
-|------|-------------|--------|
-| **Data Scientist Intern** | Checkit Analytics (AI driven Stock Analytics) | Mar 2026 - Present |
-| **Research Intern** | UC San Diego, MixLab (LLM Systems) | Oct 2025 - Present |
-| **Data Scientist** | Concentrix (Samsung Galaxy Watch 8 Consulting) | Jun 2025 - Sep 2025 |
-| **Data Engineer Intern** | Woori Financial Group (AWS Migration Project) | Jul 2024 - Dec 2024 |
-| **Platoon Leader (First Lieutenant)** | Republic of Korea Army | Mar 2022 - Jun 2024 |
+| Role | Organization | Focus | Period |
+|------|-------------|-------|--------|
+| **Solutions Engineer** | Salt AI | Enterprise AI workflows for finance, document intelligence, and operations | Jun 2026 - Present |
+| **Research Intern** | UC San Diego, MixLab / UC LEAP | RAG and multi-agent LLM systems for scientific reproducibility | Oct 2025 - Jun 2026 |
+| **Data Engineer Intern** | Woori Financial Group | AWS data infrastructure for financial analytics | Jul 2024 - Dec 2024 |
+| **Platoon Leader (First Lieutenant)** | Republic of Korea Army | Led a 30-member platoon | Mar 2022 - Jun 2024 |
 
 ---
 
